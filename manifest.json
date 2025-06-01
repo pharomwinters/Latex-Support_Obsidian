@@ -1,0 +1,10 @@
+{
+    "id": "obsidian-latex-plugin",
+    "name": "LaTeX Support",
+    "version": "1.0.0",
+    "minAppVersion": "0.15.0",
+    "description": "Comprehensive LaTeX support with TeXLab LSP integration and Tectonic compilation",
+    "author": "PharomWinters",
+    "authorUrl": "https://github.com/PharomWinters",
+    "isDesktopOnly": true
+}
